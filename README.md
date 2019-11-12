@@ -34,4 +34,3 @@ https://app.camunda.com/nexus/content/repositories/camunda-bpm/
 - Copy the war file to camunda-bpm\server\wildfly-10.1.0.Final\standalone\deployments
 - Refresh and the project will appear -The project is deployed to Camunda
 - Right click home  task list  start process  SimpleDemo  start
-- 
